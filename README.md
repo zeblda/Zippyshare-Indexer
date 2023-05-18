@@ -1,4 +1,4 @@
-# Zippyshare-Archive
+# Zippyshare Indexer
 
 How to use:
 
