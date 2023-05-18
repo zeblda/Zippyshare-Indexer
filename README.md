@@ -1,6 +1,8 @@
-# Zippyshare Indexer
+# Note
 
-How to use:
+This is made to index/search for specific files throughout the 18 terabyte archive of the file hosting site Zippyshare on Web Archive, Zippyshare went down in March 2023.
+
+# How to use:
 
 1. You first need to download the index files from Web Archive, it may take a few minutes (5-10) to download them all but it will eventually download them (there are 1,821 files to be downloaded, if you are missing some, please restart and re-download them).
 
